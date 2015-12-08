@@ -24,7 +24,22 @@
                 "type": "raw",
                 "name": "NOTE0",
                 "file": "notes/note0.txt"
-            }
+            },
+	    {
+ 		"type": "raw",
+                "name": "NOTE1",
+                "file": "notes/note1.txt"
+	    },
+	    {
+ 		"type": "raw",
+                "name": "NOTE2",
+                "file": "notes/note2.txt"
+	    },
+	    {
+ 		"type": "raw",
+                "name": "NOTE3",
+                "file": "notes/note3.txt"
+	    }
         ]
     }
 }
