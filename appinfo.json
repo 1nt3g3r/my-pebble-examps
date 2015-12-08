@@ -24,11 +24,6 @@
                 "type": "raw",
                 "name": "NOTE0",
                 "file": "notes/note0.txt"
-            },
-            {
-                "type": "raw",
-                "name": "NOTE1",
-                "file": "notes/note1.txt"
             }
         ]
     }
